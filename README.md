@@ -20,10 +20,3 @@ Built with **Flask + Gemini LLM + SerpAPI + React** (custom Material UI theme + 
 **Deployment:** Railway (backend), Netlify (frontend), Docker (local/prod)  
 
 ---
-
-## 🚀 Quick Start
-
-### Backend
-```bash
-pip install -r requirements.txt
-python app.py
